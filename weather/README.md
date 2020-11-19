@@ -1,4 +1,4 @@
-# Weather App
+# Weather App (BloC pattern)
 
 ## Sample usage and output
 

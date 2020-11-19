@@ -1,8 +1,8 @@
-# weather
+# Flutter Weather App
 
-A new Flutter project.
+## Sample usage
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
